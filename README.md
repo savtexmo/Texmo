@@ -1,2 +1,1 @@
 # Texmo
-Created sample repository
